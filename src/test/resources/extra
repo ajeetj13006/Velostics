@@ -1,0 +1,6 @@
+	//PropertyConfigurator.configure("C:\\Users\\Ajeet Singh\\eclipse-workspace\\velos\\src\\test\\resources\\log4j.properties");
+		//log.info("This is Logger Info");
+		//File src =((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+				//FileUtils.copyFile(src, new File  ("velos\\screenshot\\Screenshot.png"));
+				
+				//private static final Logger log = (Logger) LogManager.getLogger(NewTest.class.getName());

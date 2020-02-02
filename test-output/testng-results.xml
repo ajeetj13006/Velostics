@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-02T20:39:27 IST" name="Default suite" finished-at="2020-02-02T20:41:03 IST" duration-ms="95399">
+    <groups>
+    </groups>
+    <test started-at="2020-02-02T20:39:27 IST" name="Default test" finished-at="2020-02-02T20:41:03 IST" duration-ms="95399">
+      <class name="velos.testcases.NewTest">
+        <test-method is-config="true" signature="before()[pri:0, instance:velos.testcases.NewTest@358ee631]" started-at="2020-02-02T20:39:27 IST" name="before" finished-at="2020-02-02T20:41:00 IST" duration-ms="92356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="login()[pri:1, instance:velos.testcases.NewTest@358ee631]" started-at="2020-02-02T20:41:00 IST" name="login" finished-at="2020-02-02T20:41:00 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Newshipment()[pri:2, instance:velos.testcases.NewTest@358ee631]" started-at="2020-02-02T20:41:00 IST" name="Newshipment" finished-at="2020-02-02T20:41:03 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Newshipment -->
+      </class> <!-- velos.testcases.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
